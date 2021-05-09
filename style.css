@@ -1,0 +1,49 @@
+body {
+    font-family: 'Helvetica', sans-serif;
+    color: rgba(0,0,0,.8);
+    text-align: center;
+    letter-spacing: .5em;
+    top: 15%;
+    background: linear-gradient(to right, #ff9000, #90ff00);
+}
+
+h1 {
+    font-size: 2.5em;
+    color: rgba(0,0,0,.6);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: rgba(0,0,0,.6);
+    text-align: center;
+    letter-spacing: .2em;
+}
+
+h3 {
+    font-size: .75em;
+    color: rgba(0,0,0,.6);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+
+
+input[type="color" i] {
+    background-color: rgba(0,0,0,.25);
+    border: none;
+    padding: 1em 2em;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+button {
+    background-color: rgba(0,0,0,.25);
+    color: white;
+    border: none;
+    padding: 2em;
+    margin: 4px 2px;
+    cursor: pointer;
+}
