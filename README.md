@@ -9,7 +9,7 @@
 - HTML5
 - CSS
 - JavaScript
-- DOM
+- DOM Manipulation
 
 ## Features
 
@@ -24,4 +24,4 @@ This is a fun little project to get myself familiar  with Javascript and DOM man
 
 ## Planned features
 
-- Making it easier to copy & paste the background style.
+- Making it easier to copy & paste the generated background style.
